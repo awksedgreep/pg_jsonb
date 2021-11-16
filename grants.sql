@@ -1,0 +1,19 @@
+-- These grants will allow you to run the example python files
+-- Do this AFTER you load the data
+
+DROP ROLE IF EXISTS example;
+
+CREATE ROLE example WITH
+  LOGIN
+  NOSUPERUSER
+  INHERIT
+  NOCREATEDB
+  NOCREATEROLE
+  NOREPLICATION
+  ENCRYPTED PASSWORD 'SCRAM-SHA-256$4096:q9i0gcDbC9BBO8GPqvTWrA==$178br71aOThLiWsUlUoEQN9eug0lKeMM3PhhDjmn3l0=:DFuR5298aW2a7GzwHlJf7MNgJBb8bse+WUCJvl7tzWI=';
+
+GRANT SELECT ON ALL TABLES IN SCHEMA public TO example;
+
+ALTER DEFAULT PRIVILEGES FOR USER example IN SCHEMA public
+GRANT SELECT ON TABLES TO example;
+

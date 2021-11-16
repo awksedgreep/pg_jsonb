@@ -8,8 +8,7 @@ conn = psycopg2.connect(dbname="chinook", user="example",
 
 cr = conn.cursor()
 cr.execute("SELECT * FROM artist_data WHERE artist_data->>'name' = 'Metallica'")
-res = cr.fetchone()
-data = res[0]  # NOTE: No parsing required.  JSON data type is understood by python.
+data = cr.fetchone()[0]
 
 for album in data['album']:
     print("\n", album['title'], ": ")
