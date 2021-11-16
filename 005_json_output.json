@@ -1,0 +1,323 @@
+{
+    "name": "Miles Davis",
+    "album": [
+        {
+            "title": "The Essential Miles Davis [Disc 1]",
+            "album_id": 48,
+            "artist_id": 68,
+            "album_tracks": [
+                {
+                    "name": "Now's The Time",
+                    "album_id": 48,
+                    "track_id": 597,
+                    "unit_price": 0.99,
+                    "milliseconds": 197459,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Jeru",
+                    "album_id": 48,
+                    "track_id": 598,
+                    "unit_price": 0.99,
+                    "milliseconds": 193410,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Compulsion",
+                    "album_id": 48,
+                    "track_id": 599,
+                    "unit_price": 0.99,
+                    "milliseconds": 345025,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Tempus Fugit",
+                    "album_id": 48,
+                    "track_id": 600,
+                    "unit_price": 0.99,
+                    "milliseconds": 231784,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Walkin'",
+                    "album_id": 48,
+                    "track_id": 601,
+                    "unit_price": 0.99,
+                    "milliseconds": 807392,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "'Round Midnight",
+                    "album_id": 48,
+                    "track_id": 602,
+                    "unit_price": 0.99,
+                    "milliseconds": 357459,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Bye Bye Blackbird",
+                    "album_id": 48,
+                    "track_id": 603,
+                    "unit_price": 0.99,
+                    "milliseconds": 476003,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "New Rhumba",
+                    "album_id": 48,
+                    "track_id": 604,
+                    "unit_price": 0.99,
+                    "milliseconds": 277968,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Generique",
+                    "album_id": 48,
+                    "track_id": 605,
+                    "unit_price": 0.99,
+                    "milliseconds": 168777,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Summertime",
+                    "album_id": 48,
+                    "track_id": 606,
+                    "unit_price": 0.99,
+                    "milliseconds": 200437,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "So What",
+                    "album_id": 48,
+                    "track_id": 607,
+                    "unit_price": 0.99,
+                    "milliseconds": 564009,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "The Pan Piper",
+                    "album_id": 48,
+                    "track_id": 608,
+                    "unit_price": 0.99,
+                    "milliseconds": 233769,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Someday My Prince Will Come",
+                    "album_id": 48,
+                    "track_id": 609,
+                    "unit_price": 0.99,
+                    "milliseconds": 544078,
+                    "media_type_id": 1
+                }
+            ]
+        },
+        {
+            "title": "Miles Ahead",
+            "album_id": 157,
+            "artist_id": 68,
+            "album_tracks": [
+                {
+                    "name": "Springsville",
+                    "album_id": 157,
+                    "track_id": 1902,
+                    "unit_price": 0.99,
+                    "milliseconds": 207725,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "The Maids Of Cadiz",
+                    "album_id": 157,
+                    "track_id": 1903,
+                    "unit_price": 0.99,
+                    "milliseconds": 233534,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "The Duke",
+                    "album_id": 157,
+                    "track_id": 1904,
+                    "unit_price": 0.99,
+                    "milliseconds": 214961,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "My Ship",
+                    "album_id": 157,
+                    "track_id": 1905,
+                    "unit_price": 0.99,
+                    "milliseconds": 268016,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Miles Ahead",
+                    "album_id": 157,
+                    "track_id": 1906,
+                    "unit_price": 0.99,
+                    "milliseconds": 209893,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Blues For Pablo",
+                    "album_id": 157,
+                    "track_id": 1907,
+                    "unit_price": 0.99,
+                    "milliseconds": 318328,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "New Rhumba",
+                    "album_id": 157,
+                    "track_id": 1908,
+                    "unit_price": 0.99,
+                    "milliseconds": 276871,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "The Meaning Of The Blues",
+                    "album_id": 157,
+                    "track_id": 1909,
+                    "unit_price": 0.99,
+                    "milliseconds": 168594,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Lament",
+                    "album_id": 157,
+                    "track_id": 1910,
+                    "unit_price": 0.99,
+                    "milliseconds": 134191,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "I Don't Wanna Be Kissed (By Anyone But You)",
+                    "album_id": 157,
+                    "track_id": 1911,
+                    "unit_price": 0.99,
+                    "milliseconds": 191320,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Springsville (Alternate Take)",
+                    "album_id": 157,
+                    "track_id": 1912,
+                    "unit_price": 0.99,
+                    "milliseconds": 196388,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Blues For Pablo (Alternate Take)",
+                    "album_id": 157,
+                    "track_id": 1913,
+                    "unit_price": 0.99,
+                    "milliseconds": 212558,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "The Meaning Of The Blues/Lament (Alternate Take)",
+                    "album_id": 157,
+                    "track_id": 1914,
+                    "unit_price": 0.99,
+                    "milliseconds": 309786,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "I Don't Wanna Be Kissed (By Anyone But You) (Alternate Take)",
+                    "album_id": 157,
+                    "track_id": 1915,
+                    "unit_price": 0.99,
+                    "milliseconds": 192078,
+                    "media_type_id": 1
+                }
+            ]
+        },
+        {
+            "title": "The Essential Miles Davis [Disc 2]",
+            "album_id": 49,
+            "artist_id": 68,
+            "album_tracks": [
+                {
+                    "name": "My Funny Valentine (Live)",
+                    "album_id": 49,
+                    "track_id": 610,
+                    "unit_price": 0.99,
+                    "milliseconds": 907520,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "E.S.P.",
+                    "album_id": 49,
+                    "track_id": 611,
+                    "unit_price": 0.99,
+                    "milliseconds": 330684,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Nefertiti",
+                    "album_id": 49,
+                    "track_id": 612,
+                    "unit_price": 0.99,
+                    "milliseconds": 473495,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Petits Machins (Little Stuff)",
+                    "album_id": 49,
+                    "track_id": 613,
+                    "unit_price": 0.99,
+                    "milliseconds": 487392,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Miles Runs The Voodoo Down",
+                    "album_id": 49,
+                    "track_id": 614,
+                    "unit_price": 0.99,
+                    "milliseconds": 843964,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Little Church (Live)",
+                    "album_id": 49,
+                    "track_id": 615,
+                    "unit_price": 0.99,
+                    "milliseconds": 196101,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Black Satin",
+                    "album_id": 49,
+                    "track_id": 616,
+                    "unit_price": 0.99,
+                    "milliseconds": 316682,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Jean Pierre (Live)",
+                    "album_id": 49,
+                    "track_id": 617,
+                    "unit_price": 0.99,
+                    "milliseconds": 243461,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Time After Time",
+                    "album_id": 49,
+                    "track_id": 618,
+                    "unit_price": 0.99,
+                    "milliseconds": 220734,
+                    "media_type_id": 1
+                },
+                {
+                    "name": "Portia",
+                    "album_id": 49,
+                    "track_id": 619,
+                    "unit_price": 0.99,
+                    "milliseconds": 378775,
+                    "media_type_id": 1
+                }
+            ]
+        }
+    ],
+    "artist_id": 68
+}
