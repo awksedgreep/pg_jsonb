@@ -15,3 +15,4 @@ psql chinook < Chinook_PostgreSql_SerialPKs_CaseInsensitive_CaseFixed.sql > erro
 Next connect to chinook using VS Code Database Extension
 In VS Code clone the following URL:  https://github.com/awksedgreep/pg_jsonb.git
 
+You should see options to execute SQL statements next to the statements themselves.
