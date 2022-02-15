@@ -1,6 +1,7 @@
 -- Common Table Expressions example
 
 -- This odd looking SQL can be used to generate JSON output from normal tables
+SELECT version();
 
 WITH RECURSIVE gwbasic AS (
   SELECT '10 PRINT "HELLO WORLD!"'
