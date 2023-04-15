@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-import json
 import psycopg2
 
 if len(sys.argv) == 1:

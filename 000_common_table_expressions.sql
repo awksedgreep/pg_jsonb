@@ -1,3 +1,4 @@
+-- Active: 1680201406864@@127.0.0.1@5432@chinook@public
 -- Common Table Expressions example
 
 -- This odd looking SQL can be used to generate JSON output from normal tables
